@@ -1,6 +1,6 @@
 # Full-Stack Blog Website
 
-![Alt Text](https://paste.pics/866a36ceac8414a7dfc5691e89cfbc59)
+![Alt Text](https://i2.paste.pics/866a36ceac8414a7dfc5691e89cfbc59.png)
 
 ## Table of Contents
 
