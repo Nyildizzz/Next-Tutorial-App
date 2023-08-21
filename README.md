@@ -1,6 +1,6 @@
 # Full-Stack Blog Website
 
-![Alt Text](https://hizliresim.com/q25atv3)
+![Alt Text]([url=https://hizliresim.com/q25atv3][img]https://i.hizliresim.com/q25atv3.png[/img][/url])
 
 ## Table of Contents
 
