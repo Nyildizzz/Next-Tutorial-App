@@ -29,6 +29,7 @@ List some of the main features of your blog website, such as:
 - Integration with MongoDB for data storage
 - Server-side rendering with Next.js
 - Responsive and user-friendly UI
+- Theme Toggle using Context Apı 
 
 ## Getting Started
 
@@ -38,7 +39,7 @@ Instructions for setting up the project on a local machine.
 
 List the software and tools that need to be installed before setting up your project. For example:
 
-- Node.js (version x.x.x)
+- Node.js 
 - npm or yarn
 
 ### Installation
@@ -98,7 +99,9 @@ List the key technologies and libraries used in your project:
 - Next.js
 - MongoDB
 - Auth.js
-- ...
+- Context Apı
+- Mongoose.js (Version 6.11.5)
+- Bcrypt.js
 
 ## Contributing
 
